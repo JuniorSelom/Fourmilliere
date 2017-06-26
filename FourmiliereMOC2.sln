@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FourmiliereMOC2", "FourmiliereMOC2\FourmiliereMOC2.csproj", "{DC7A0F7A-D222-428D-847E-B8C7E04E52CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibAbstraite", "LibAbstraite\LibAbstraite.csproj", "{3D1A173C-64B5-49C7-A760-2BDD95413AEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibMetier", "LibMetier\LibMetier.csproj", "{BD6BAABE-A3D6-4644-9E1F-3915E457E0B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC7A0F7A-D222-428D-847E-B8C7E04E52CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC7A0F7A-D222-428D-847E-B8C7E04E52CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC7A0F7A-D222-428D-847E-B8C7E04E52CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC7A0F7A-D222-428D-847E-B8C7E04E52CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D1A173C-64B5-49C7-A760-2BDD95413AEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D1A173C-64B5-49C7-A760-2BDD95413AEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D1A173C-64B5-49C7-A760-2BDD95413AEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D1A173C-64B5-49C7-A760-2BDD95413AEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD6BAABE-A3D6-4644-9E1F-3915E457E0B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD6BAABE-A3D6-4644-9E1F-3915E457E0B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD6BAABE-A3D6-4644-9E1F-3915E457E0B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD6BAABE-A3D6-4644-9E1F-3915E457E0B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
